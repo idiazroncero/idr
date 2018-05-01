@@ -8,6 +8,7 @@
         </nuxt-link>
       </li>
     </ul>
+    
   </section>
 </template>
 

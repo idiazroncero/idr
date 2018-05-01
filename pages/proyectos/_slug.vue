@@ -14,7 +14,7 @@ export default {
     //       require('~/content/blog/posts/' + params.slug + '.json')
     //     );
 
-    let post = await import('~/content/blog/posts/' + params.slug + '.json');
+    let post = await import('~/content/proyectos/' + params.slug + '.json');
     return post;
   }
 };
